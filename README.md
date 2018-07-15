@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Table Custom Sorting Demo
+================================
 
-Show a window with `Hello, JavaFX` label.
+Use `setComparator`.
 
